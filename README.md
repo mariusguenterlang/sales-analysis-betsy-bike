@@ -33,6 +33,9 @@ Below is an overview page from the PowerBI dashboard and more examples are inclu
 
 - fill in dashboard screenshot here -
 
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/7daf3588-d0e4-4162-9cce-b358845e9ad8" />
+
+
 ### Product Performance
 - X% of revenue stem from just three products, Gaming Monitors, Apple AirPods, and Smartphones.
 
