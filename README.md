@@ -26,7 +26,22 @@ With an overall gradual increase in sales, bike accessories have a distinct chan
 
 Below is an overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
+- fill in PowerBI dashboard here -
+
+### Sales Trends
+- Company Sales peaked in September 2008 with X orders totalling $XXX.XXX monthly revenue. This corresponds to ...
+- Average order value saw an increase in X% compared to the previous year.
+
+- fill in dashboard screenshot here -
+
+### Product Performance
+- X% of revenue stem from just three products, Gaming Monitors, Apple AirPods, and Smartphones.
+
 ## Insights Deep Dive
 
 
 ## Recommendations
+Based on the uncovered insights, the following recommendations have been provided:
+- With X% of revenue coming from just three products, diversifying the product portfolio is crucial. Expanding the accessory category with new product lines, particularly Apple Charging Cables, would provide upsell opportunities.
+- Despite the success of bikes in the Americas, bike sales in Europe have been slow. A differentiation of portfolios between Europe and America could increase stock efficiency.
+- Re-evaluate the clothing line. Despite an increase in sales, the share of revenue has remained small.
