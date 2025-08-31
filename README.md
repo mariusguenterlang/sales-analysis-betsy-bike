@@ -33,7 +33,11 @@ Below is an overview page from the PowerBI dashboard and more examples are inclu
 
 - fill in dashboard screenshot here -
 
+Order Quantity:
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/7daf3588-d0e4-4162-9cce-b358845e9ad8" />
+
+Turnover and Profit:
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/07ee3ba9-dc25-4df8-bedd-1c90bfb81dad" />
 
 
 ### Product Performance
