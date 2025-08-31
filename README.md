@@ -17,9 +17,7 @@ The Python script utilized to clean, organize, and prepare the data can be found
 
 ## Data Structure Overview
 Betsy Bike's database structure as seen below consists of 15 tables related to the product, sales, customers and vendors.
-<img width="1654" height="594" alt="image" src="https://github.com/user-attachments/assets/1a03a5d7-bce8-463a-9875-b3af8e1feb6d" />
-
-
+<img width="1654" height="594" alt="image" src="https://github.com/user-attachments/assets/6c0937ef-4bb0-46f8-a3ab-351e0e8f149c" />
 
 ## Executive Summary
 ### Overview of Findings
