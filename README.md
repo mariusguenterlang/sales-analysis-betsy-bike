@@ -37,7 +37,30 @@ Below is an overview page from the PowerBI dashboard and more examples are inclu
 - X% of revenue stem from just three products, Gaming Monitors, Apple AirPods, and Smartphones.
 
 ## Insights Deep Dive
+### KPI Definition
+- Top-performing products
+- Sales over time
+- Regional Sales Performance
+- Customer Retention, repeat purchase rates
+- Profit Margins
 
+### Exploratory Data Analysis (EDA)
+Descriptive Statistics:
+
+Sales Trend Line:
+
+Order Size Distribution:
+
+(spot outliers, data quality issues)
+
+### Time-Series Forecasting
+Estimate future sales.
+
+### Cohort Analysis
+Analyze customer retention
+
+### Market Basket Analysis
+Which products are sold together?
 
 ## Recommendations
 Based on the uncovered insights, the following recommendations have been provided:
