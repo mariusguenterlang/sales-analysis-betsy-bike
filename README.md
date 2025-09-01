@@ -42,6 +42,7 @@ Turnover and Profit:
 
 ### Product Performance
 - X% of revenue stem from just three products, Gaming Monitors, Apple AirPods, and Smartphones.
+- Over the analyzed timespan, the company sells 120 different products. 
 
 ## Insights Deep Dive
 ### KPI Definition
